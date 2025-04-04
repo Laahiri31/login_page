@@ -11,13 +11,6 @@ This project demonstrates a CI/CD pipeline using **Jenkins, Docker, AWS, and Git
 - **Git** - Manages source code  
 - **Apache2** - Web server inside Docker container  
 
-### 📂 Project Structure  
-```
-📦 project-root
- ┣ 📂 src                   # Source code for the web app
- ┗  📜 README.md             # Documentation
-```
-
 ### 🔧 Setup Instructions  
 
 #### 1️⃣ Prerequisites  
